@@ -1,10 +1,17 @@
 # Awesome-multi-modal-embeddings
+This list includes the most state-of-the-art projects on multi-modal-embeddings, which are
+* with high impact and code stability
+  * high number of GitHub stars
+  * model used in other papers' evaluations
+* paper accepted in top conferences (CVPR, ICML, .etc)
+
+Note that some of projects with more than 3 modalities may not be widely used.
 
 ## More than 3 modalities
 
 * [ImageBind: One Embedding Space To Bind Them All](./project-details/ImageBind.md)
 
-### 
+## 3 Modalities: vision-language-audio
 
 ## 2 Modalities: vision-language
 
