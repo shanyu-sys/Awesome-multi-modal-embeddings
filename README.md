@@ -9,8 +9,8 @@ Note that some of projects with more than 3 modalities may not be widely used.
 
 ## More than 3 modalities
 
-* [ImageBind: One Embedding Space To Bind Them All](./project-details/ImageBind.md)
-* [High-Modality Multimodal Transformer: Quantifying Modality & Interaction Heterogeneity for High-Modality Representation Learning](./project-details/HighMMT.md)
+  * [ImageBind: One Embedding Space To Bind Them All](./project-details/ImageBind.md)
+  * [High-Modality Multimodal Transformer: Quantifying Modality & Interaction Heterogeneity for High-Modality Representation Learning](./project-details/HighMMT.md)
 
 
 ## 3 Modalities: vision-language-audio
@@ -22,7 +22,13 @@ Note that some of projects with more than 3 modalities may not be widely used.
 
   * [(BEiT-3) Image as a Foreign Language: BEiT Pretraining for Vision and Vision-Language Tasks](./project-details/beit3.md)
 
+## Other Awesome multimodal Repos:
+  * https://github.com/pliang279/awesome-multimodal-ml
+  * https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 
+## Survey paper:
+  * [Large-scale Multi-modal Pre-trained Models: A Comprehensive Survey](https://link.springer.com/article/10.1007/s11633-022-1410-8)
+  * 
 
 #### Paper
 
