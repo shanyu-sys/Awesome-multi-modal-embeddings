@@ -28,31 +28,4 @@ Note that some of projects with more than 3 modalities may not be widely used.
 
 ## Survey paper:
   * [Large-scale Multi-modal Pre-trained Models: A Comprehensive Survey](https://link.springer.com/article/10.1007/s11633-022-1410-8)
-  * 
-
-#### Paper
-
-* [Link]()
-* Conference: 
-* Year: 2023
-* tasks
-
-#### Code
-
-* [Github]()
-* Stars: **k**
-* license: 
-
-#### Installation and get embeddings
-
-##### Installation: 
-
-`pip install .`
-
-* dep: torch 1.13+ ; python 3.8
-
-##### get embeddings:
-
-```python
-```
 
