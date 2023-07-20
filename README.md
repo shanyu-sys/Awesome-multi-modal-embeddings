@@ -10,6 +10,8 @@ Note that some of projects with more than 3 modalities may not be widely used.
 ## More than 3 modalities
 
 * [ImageBind: One Embedding Space To Bind Them All](./project-details/ImageBind.md)
+* [High-Modality Multimodal Transformer: Quantifying Modality & Interaction Heterogeneity for High-Modality Representation Learning](./project-details/HighMMT.md)
+
 
 ## 3 Modalities: vision-language-audio
 
@@ -18,6 +20,7 @@ Note that some of projects with more than 3 modalities may not be widely used.
   * [LAVIS - A Library for Language-Vision Intelligence](./project-details/lavis.md)
   * [OpenCLIP - An open source implementation of OpenAI's CLIP](./project-details/OpenCLIP.md)
 
+  * [(BEiT-3) Image as a Foreign Language: BEiT Pretraining for Vision and Vision-Language Tasks](./project-details/beit3.md)
 
 
 
