@@ -21,6 +21,7 @@ Note that some of projects with more than 3 modalities may not be widely used.
   * [OpenCLIP - An open source implementation of OpenAI's CLIP](./project-details/OpenCLIP.md)
 
   * [(BEiT-3) Image as a Foreign Language: BEiT Pretraining for Vision and Vision-Language Tasks](./project-details/beit3.md)
+  * [I-JEPA](./project-details/ijepa.md)
 
 ## Other Awesome multimodal Repos:
   * https://github.com/pliang279/awesome-multimodal-ml
