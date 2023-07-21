@@ -26,6 +26,7 @@ Note that some of projects with more than 3 modalities may not be widely used.
 ## Other Awesome multimodal Repos:
   * https://github.com/pliang279/awesome-multimodal-ml
   * https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+  * https://github.com/DirtyHarryLYL/Transformer-in-Vision
 
 ## Survey paper:
   * [Large-scale Multi-modal Pre-trained Models: A Comprehensive Survey](https://link.springer.com/article/10.1007/s11633-022-1410-8)
